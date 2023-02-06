@@ -28,7 +28,7 @@ const About = () => {
                 <AnimatedLetters letterClass={letterClass} strArray={['A', 'b', 'o', 'u', 't', ' ', 'm', 'e']} idx={15}/>
                 </h1>
                 <p>
-                    TODO: more about me and desires
+                    I'm 
                 </p>
                 <p align="LEFT">
                     TODO: something about me

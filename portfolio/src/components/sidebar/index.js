@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faHome,faUser,faEnvelope} from '@fortawesome/free-solid-svg-icons'
 import {faLinkedin,faGithub,faTwitter, faReadme} from '@fortawesome/free-brands-svg-icons'
 import Resume from '../../assets/files/RESUME_2022.pdf'
+import Resume23 from '../../assets/files/RESUME_2023.pdf'
 
 const Sidebar = () => (
     <div className='nav-bar'>
